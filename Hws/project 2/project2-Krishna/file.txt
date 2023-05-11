@@ -1,0 +1,26 @@
+txt
+files
+120
+
+txt
+students
+500
+
+gif
+picture1
+100 x 200
+8
+
+gif
+picture2
+200 x 300
+16
+
+txt
+testfile
+450
+
+gif
+itsAlmostTime
+30 x 40
+3

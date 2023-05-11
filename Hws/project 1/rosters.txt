@@ -1,0 +1,13 @@
+Modern Art|211|5|Dio Burando
+Bobby|Flay|23432344|Lower Freshman|3|55.5|12/31/2022|12/31/2022
+Hernia|Tattoo|90348909|Lower Freshman|4|99.4|12/31/2022|12/31/2022
+end_roster|
+I AM APOLLO 11|212|5|Rikiel
+Krishna|Dudani|23998894|Lower Freshman|6|90|9/1/2004|6/15/2022
+Bobby|Shmurda|90348909|Lower Freshman|5|23.3|12/31/2022|12/31/202
+end_roster|
+suicideTechnique|SCC211|15|QueensCollege Ghost
+K|D|2323|Upper Freshman|15|99.9|9/1/2004|5/16/2024
+Dudani|Dubani|01234567|Lower Freshman|12|54.5|6/6/2026|5/5/2030
+Bangalore|Dulina|20404509|Upper Freshman|15|94.5|1/2/3|2/3/4
+end_roster|
